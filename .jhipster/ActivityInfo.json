@@ -1,0 +1,35 @@
+{
+    "name": "ActivityInfo",
+    "fields": [
+        {
+            "fieldName": "activityName",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "user",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "telephone",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "payStatus",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "addDate",
+            "fieldType": "String"
+        }
+    ],
+    "relationships": [],
+    "changelogDate": "20190907180121",
+    "entityTableName": "activity_info",
+    "dto": "no",
+    "pagination": "pagination",
+    "service": "serviceImpl",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "clientRootFolder": "",
+    "applications": "*"
+}

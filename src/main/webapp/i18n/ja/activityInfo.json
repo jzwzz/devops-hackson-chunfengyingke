@@ -1,0 +1,26 @@
+{
+  "chunfengApp": {
+    "activityInfo": {
+      "home": {
+        "title": "ActivityInfos",
+        "createLabel": "Activity Info を追加",
+        "createOrEditLabel": "Activity Infoを追加または編集",
+        "notFound": "No Activity Info found"
+      },
+      "created": "A new Activity Info is created with identifier {{ param }}",
+      "updated": "A Activity Info is updated with identifier {{ param }}",
+      "deleted": "A Activity Info is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Activity Info {{ id }}を削除してもよろしいですか？"
+      },
+      "detail": {
+        "title": "Activity Info"
+      },
+      "activityName": "Activity Name",
+      "user": "User",
+      "telephone": "Telephone",
+      "payStatus": "Pay Status",
+      "addDate": "Add Date"
+    }
+  }
+}

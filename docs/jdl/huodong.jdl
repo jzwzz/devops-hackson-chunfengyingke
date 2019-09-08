@@ -1,0 +1,14 @@
+entity ActivityInfo {
+	ActivityName String
+	User String
+	Telephone String
+	PayStatus String
+	AddDate String
+}
+
+paginate ActivityInfo with pagination
+
+// dto * with mapstruct
+
+// Set service options to all except few
+service all with serviceImpl

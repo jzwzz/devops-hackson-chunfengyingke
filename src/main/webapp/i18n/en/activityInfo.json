@@ -1,0 +1,26 @@
+{
+  "chunfengApp": {
+    "activityInfo": {
+      "home": {
+        "title": "Activity Infos",
+        "createLabel": "Create a new Activity Info",
+        "createOrEditLabel": "Create or edit a Activity Info",
+        "notFound": "No Activity Info found"
+      },
+      "created": "A new Activity Info is created with identifier {{ param }}",
+      "updated": "A Activity Info is updated with identifier {{ param }}",
+      "deleted": "A Activity Info is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Activity Info {{ id }}?"
+      },
+      "detail": {
+        "title": "Activity Info"
+      },
+      "activityName": "Activity Name",
+      "user": "User",
+      "telephone": "Telephone",
+      "payStatus": "Pay Status",
+      "addDate": "Add Date"
+    }
+  }
+}

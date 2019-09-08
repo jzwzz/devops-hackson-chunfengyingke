@@ -1,0 +1,26 @@
+{
+  "chunfengApp": {
+    "activityInfo": {
+      "home": {
+        "title": "Activity Infos",
+        "createLabel": "创建新 Activity Info",
+        "createOrEditLabel": "创建或编辑 Activity Info",
+        "notFound": "No Activity Info found"
+      },
+      "created": "Activity Info {{ param }} 创建成功",
+      "updated": "Activity Info {{ param }} 更新成功",
+      "deleted": "Activity Info {{ param }} 删除成功",
+      "delete": {
+        "question": "你确定要删除 Activity Info {{ id }} 吗？"
+      },
+      "detail": {
+        "title": "Activity Info"
+      },
+      "activityName": "Activity Name",
+      "user": "User",
+      "telephone": "Telephone",
+      "payStatus": "Pay Status",
+      "addDate": "Add Date"
+    }
+  }
+}
